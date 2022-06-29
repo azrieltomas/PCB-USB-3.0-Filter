@@ -8,3 +8,8 @@ My hope is this solves hum on external audio devices.
 PCB created with EasyEDA
 
 3D printable case created with FreeCAD
+
+V1.0 uses two USB Type A female connectors
+V2.0 streamlines the PCB, replaces one connector with USB Type A Male, to make it directly pluggable to PC / Equipment.
+
+V2.0 Print Case TBD
