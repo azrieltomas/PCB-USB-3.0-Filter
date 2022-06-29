@@ -12,4 +12,6 @@ PCB created with EasyEDA
 V1.0 uses two USB Type A female connectors\
 V2.0 streamlines the PCB, replaces one connector with USB Type A Male, to make it directly pluggable to PC / Equipment.
 
+![](https://github.com/azrieltomas/PCB-USB-3.0-Filter/blob/main/V2%20Gerber/PCB_PCB_USB%20Filter%20V2.svg)
+
 V2.0 Print Case TBD
